@@ -1,0 +1,13 @@
+/* css Zoe G.'s index page */
+
+html {
+	margin: 0;
+	padding: 0;
+	background-color: #f5f5dc;
+}
+body {
+	text-align: center;
+	font: 100% Georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753;
+}

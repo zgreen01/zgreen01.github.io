@@ -1,0 +1,19 @@
+/* css Zoe G.'s resume page */
+
+html {
+	margin-top: 4%;
+	margin-bottom: 10%;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding: 0;
+	background-color: #f5f5dc;
+	font-family: Georgia, sans-serif;
+}
+
+#title {
+	text-align: center;
+}
+
+.bullets {
+	list-style-type: square;
+}
